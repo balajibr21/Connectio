@@ -1,0 +1,9 @@
+1. We need to Your Infrastructure and architecture.
+2. How many Servers they are using.
+   ->in that what servers moving to cloud, that means Prod(production) server or Non-Prod( Non- production)?
+   ->Procution Servers means its very sensitive.
+   ->Non-prodcution Means- Dev, Testing, QA
+   ->it was there in physical or any Virtual Machine?
+3. what type of applications they are using?
+4. whats yours peek hours?
+5. whats your DATA BASE Size? How much they required?
